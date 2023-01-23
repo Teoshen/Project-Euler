@@ -45,4 +45,4 @@ for (val in BaseList)
 
 #Step 3. Select the max palindrome.
 max(Palindromes)
-#for 2-digit multipliers, it should be 9009 or 91x99
+#Output is 906609
