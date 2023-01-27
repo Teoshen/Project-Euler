@@ -9,7 +9,7 @@ Numbers <- c(1:100)
 SumSquare <- sum((Numbers)^2)
 SquareSum <- (sum(Numbers))^2
 Answer <- SquareSum-SumSquare
-
+#Output is 25164150
 
 
 #Can be made faster by using mathematical induction:
