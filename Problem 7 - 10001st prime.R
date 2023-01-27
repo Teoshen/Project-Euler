@@ -16,10 +16,10 @@ repeat{
   }
   else if (all(n %% 2:max(2,floor(sqrt(n))) != 0)){
     Primes <-  append(Primes,n);
-    n <- (n+1)
+    n <- (n+2)
   }
   else if (1 == 1){
-    n <- (n+1)
+    n <- (n+2)
   }
 }
 #Output is 104743
