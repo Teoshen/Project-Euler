@@ -46,3 +46,5 @@ for (val in BaseList)
 #Step 3. Select the max palindrome.
 max(Palindromes)
 #Output is 906609
+
+#After writing the function to get reversals, I found that R has this function already in rev(). However, I find the solution I originally built to be very interesting, I am just noting here that I am aware there is a significantly faster method.
